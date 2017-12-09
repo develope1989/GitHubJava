@@ -1,0 +1,43 @@
+import 导入
+array 数组
+Scanner	
+console 控制台
+continue 继续
+break 	
+exception = 异常
+index 索引；角标；下标
+out of bounds 越界
+NullPointException 空指针
+source 源
+resource 资源
+generate 生成
+duplicate 重复
+extends 继承
+abstract 抽象的
+final 最终；不可变
+instanceof 判断对象的类型
+ClassCastException 类型转换异常
+format 格式
+date 日期
+data 数据
+random 随机数
+element	元素
+type		类型
+library	图书馆	库
+exception	异常
+throw	抛，在方法中抛
+throws	在方法声明中抛
+variable 变量
+
+precede 优于
+declare	声明
+
+Document 文件，文档，文献
+root	根
+element	元素
+attribute 属性
+recursive 递归
+status	状态、
+init	初始化的意思
+
+
